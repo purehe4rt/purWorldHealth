@@ -1,0 +1,7 @@
+name: purWorldHealth
+version: '${project.version}'
+main: dev.pureheart.worldhealth.Loader
+
+api-version: '1.20'
+
+authors: [ pureheart_ ]
