@@ -2,3 +2,6 @@
 worldHealth:
   world: 20 # Мир: жизни.
   world_nether: 10
+
+# Будет ли меняться кол-во жизней при смене мира?
+worldChange: false
